@@ -19,8 +19,7 @@ The **Hand Gesture Control System** is a computer vision-based project that enab
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hand-gesture-control.git
-   cd hand-gesture-control
+    https://github.com/Yuvraj-1107-ML/Computer_Vision_Project.git
    ```
 2. Install the required dependencies:
    ```bash
@@ -28,7 +27,7 @@ The **Hand Gesture Control System** is a computer vision-based project that enab
    ```
 3. Run the program:
    ```bash
-   python hand_gesture_control.py
+   python app.py
    ```
 
 ## How It Works
