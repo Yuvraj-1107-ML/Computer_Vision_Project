@@ -1,0 +1,2 @@
+numpy
+screen_brightness_control
